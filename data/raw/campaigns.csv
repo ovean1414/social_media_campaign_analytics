@@ -1,0 +1,9 @@
+campaign_id,campaign_name,platform,campaign_type,target_audience,start_date,end_date,total_budget
+101,Summer Style Awareness,Instagram,Awareness,Young adults 18-30,2025-01-01,2025-12-31,32000
+102,B2B Lead Generation,LinkedIn,Lead Generation,Business decision-makers,2025-01-01,2025-12-31,48000
+103,Weekend Food Offers,Facebook,Conversions,Food lovers 21-45,2025-01-01,2025-12-31,36000
+104,Product Launch Buzz,X,Engagement,Technology enthusiasts,2025-01-01,2025-12-31,26000
+105,Website Visitor Retargeting,Instagram,Conversions,Recent website visitors,2025-01-01,2025-12-31,42000
+106,Small Business Solutions,LinkedIn,Traffic,Small business owners,2025-01-01,2025-12-31,39000
+107,Loyalty Rewards,Facebook,Retention,Existing customers,2025-01-01,2025-12-31,30000
+108,Brand Conversation,X,Awareness,Social media followers,2025-01-01,2025-12-31,22000
